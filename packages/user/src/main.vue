@@ -200,6 +200,7 @@ export default {
 }
 .panelWrap > .box > div.left {
   background-color: #496fa0;
+  text-transform: uppercase;
 }
 .panelWrap > .box > div.right {
   background-color: #2a2a3f;
