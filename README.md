@@ -474,6 +474,3 @@ this.$metamask.onTxStatusChange((list) => {
 
 ---
 
-
-## Keywords
-metamask vue 
